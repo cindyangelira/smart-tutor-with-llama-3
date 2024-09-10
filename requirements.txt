@@ -1,5 +1,4 @@
 streamlit==1.38.0
-Pillow==9.5.0
 pix2text==1.1.1.2
 transformers==4.43.4
 torch==2.4.0
@@ -7,3 +6,15 @@ torchaudio==2.4.0
 streamlit-webrtc==0.47.7
 huggingface-hub==0.24.6
 numpy==1.26.4
+pymupdf==1.22.5
+fitz==0.0.1.dev2
+python-pptx==1.0.2
+Pillow==10.4.0
+requests==2.32.3
+frontend==0.0.3
+llama-index-core==0.10.58
+llama-index-readers-file==0.1.30
+llama-index-llms-nvidia==0.1.4
+llama-index-embeddings-nvidia==0.1.4
+llama-index-vector-stores-milvus==0.1.20
+pymilvus==2.4.4
