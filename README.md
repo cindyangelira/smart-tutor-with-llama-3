@@ -1,8 +1,9 @@
 # Streamlit Math Tutor Application
-
+![App Screenshots](images.png)
 ## Overview
 
 This repository contains a Streamlit application that helps students solve math problems using image recognition and language models. The application uses a combination of Pix2Text for recognizing text in images, a Llama 3.1 8B model for generating step-by-step solutions, and a VITS model for converting text solutions into speech.
+
 
 ## Features
 
