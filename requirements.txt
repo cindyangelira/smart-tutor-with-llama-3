@@ -1,0 +1,9 @@
+streamlit==1.38.0
+Pillow==9.5.0
+pix2text==1.1.1.2
+transformers==4.43.4
+torch==2.4.0
+torchaudio==2.4.0
+streamlit-webrtc==0.47.7
+huggingface-hub==0.24.6
+numpy==1.26.4
