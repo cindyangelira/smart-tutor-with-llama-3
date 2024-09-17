@@ -6,6 +6,13 @@
 This repository contains a Streamlit application that helps students solve math problems using image recognition and language models. The application uses a combination of Pix2Text for recognizing text in images, a Llama 3.1 8B model for generating step-by-step solutions, and a VITS model for converting text solutions into speech. The text-to-voice feature is designed to assist students who may struggle to understand written explanations, as well as those who are visually impaired, providing them with an inclusive learning experience.
 
 
+## Update 2024-09-17
+Currently developing: 
+- voice-to-voice feature to ensure visually impaired students can learn and interact with agent. 
+- demo test with ollama
+
+
+
 ## Features
 
 - Upload or capture images containing math problems.
